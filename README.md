@@ -14,7 +14,7 @@ Esta é uma API desenvolvida em Node.js que recebe um CNPJ na requisição, vali
     npm install
     ```
 
-3. **Configure a chave da API:**
+3. **(Para pegar a key, deve se cadastrar no site;) Configure a chave da API:**
 
     Crie um arquivo `.env` na raiz do projeto e adicione a sua chave de API do ReceitaWS:
 
